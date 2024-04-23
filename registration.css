@@ -53,3 +53,16 @@ body {
     padding: 0 0 0 42px;
     background: rgba(255, 255, 255, 0.1);
 }
+
+#Zatwierdź {
+    height: 30px;
+    width: 67%;
+    border-radius: 30px;
+    color: #ffffff;
+    background: rgba(81, 17, 94, 0.534);
+}
+
+h1 {
+    color: rgba(66, 30, 107, 0.5);
+
+}

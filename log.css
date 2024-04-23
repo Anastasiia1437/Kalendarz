@@ -37,7 +37,7 @@ body {
     border: none;
     outline: none;
     border-radius: 15px;
-    color: #fff;
+    color: #d11313;
     padding: 0 0 0 42px;
     background: rgba(255, 255, 255, 0.1);
 }
@@ -51,6 +51,7 @@ h1{
     height: 30px;
     width: 67%;
     border-radius: 30px;
+    border: none;
     color: #ffffffab;
     background: rgba(122, 28, 141, 0.534);
 }
@@ -59,6 +60,8 @@ h1{
     height: 30px;
     width: 67%;
     border-radius: 30px;
+    border: none;
     color: #ffffff;
     background: rgba(81, 17, 94, 0.534);
 }
+
