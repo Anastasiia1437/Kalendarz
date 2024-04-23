@@ -58,8 +58,9 @@ body {
     height: 30px;
     width: 67%;
     border-radius: 30px;
+    border: none;
     color: #ffffff;
-    background: rgba(81, 17, 94, 0.534);
+    background: rgba(122, 28, 141, 0.534);
 }
 
 h1 {
