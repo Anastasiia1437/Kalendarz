@@ -4,5 +4,24 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "mysql": "^2.18.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "kalendarz",
+  "description": "no",
+  "version": "1.0.0",
+  "main": "log.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastasiia1437/Kalendarz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastasiia1437/Kalendarz/issues"
+  },
+  "homepage": "https://github.com/Anastasiia1437/Kalendarz#readme"
 }
