@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/bg_log_reg.png");
+    background-image: url("/images/bg_log_reg.png");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
